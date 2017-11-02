@@ -1,5 +1,5 @@
 # BME 595 Final Project
-## Photo-Realistic Image Super-resolution
+## Obfuscated Face Reconstruction
 Estimating a high-resolution(HR) image from its low-resolution(LR) counterpart using deep convolutional neural network. And using pretrained image classification model like VGGNet to contruct perceptual loss to obtain photo-realistic HR images. 
 ## Team members
 Tong Shen (shen338), Jieqiong Zhao (JieqiongZhao)
