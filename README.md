@@ -1,16 +1,16 @@
 # BME 595 Final Project
 ## Obfuscated Face Reconstruction
-Estimating a high-resolution(HR) image from its low-resolution(LR) counterpart using deep convolutional neural network. And using pretrained image classification model like VGGNet to contruct perceptual loss to obtain photo-realistic HR images. 
+Estimating a high-resolution(HR) face image from its low-resolution(LR) counterpart using deep convolutional neural network. And using pretrained image classification model like VGGNet to contruct perceptual loss to obtain photo-realistic reconstruction. Plus, we may implement GAN(generative adversial network) and prior model to reconstruct the fine details.  
 ## Team members
 Tong Shen (shen338), Jieqiong Zhao (JieqiongZhao)
 ## Goals
-* Estimating a high-resolution(HR) image from its low-resolution(LR) counterpart using deep convolutional neural network following these steps: 
-1. Construct efficient CNN structures to directly map LR image to HR image
-2.  Use pretrained model to develop perceptual loss combined with pixel-wise loss to evaluate the difference between the LR image and the target HR image
-3. Use generative adversial network to reconstruct the fine details of the HR image
+* Reconstruct obfuscated face using deep convolutional neural network following these steps: 
+1. Construct efficient CNN structures to directly map LR face image to HR face image
+2. Use pretrained model to develop perceptual loss combined with pixel-wise loss to evaluate the difference between the LR face image and the target HR face image
+3. Use generative adversial network to reconstruct the fine details in the HR image
 ## Challenges
 * Large datasets collection
-  Compare the results of benchmark datasets applied in state of art super-resolution image reconstrunction projects and find out the proper dataset to apply in our project
+  Compare the results of benchmark datasets applied in state of art super-resolution image reconstruction projects and find out the proper dataset to apply in our project
 * High frequency information restoration 
   Reconstruct the high resolution images using limited information provided in low resolution image. The methods applied to estimate the high frequency infomation is critical and crucial.  
 * Improve the speed of the computation 
