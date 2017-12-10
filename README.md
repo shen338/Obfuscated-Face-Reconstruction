@@ -18,7 +18,7 @@ Tong Shen (shen338), Jieqiong Zhao (JieqiongZhao)
 #### SRResNet 
 ![](https://raw.githubusercontent.com/shen338/Obfuscated-Face-Reconstruction/master/result/SRResNet_result.PNG)
 #### SRGAN
-![](https://raw.githubusercontent.com/shen338/Obfuscated-Face-Reconstruction/master/result/GAN_model.PNG)
-#### some failure case
-#### SRGAN
+![](https://raw.githubusercontent.com/shen338/Obfuscated-Face-Reconstruction/master/result/GAN_result.PNG)
+#### some failure case of SRGAN
+
 ![](https://raw.githubusercontent.com/shen338/Obfuscated-Face-Reconstruction/master/result/failure_case.PNG)
