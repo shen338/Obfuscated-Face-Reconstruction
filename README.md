@@ -1,5 +1,5 @@
 ## Obfuscated Face Reconstruction
-Estimating a high-resolution(HR) face image from its low-resolution(LR) counterpart using deep convolutional neural network. And using pretrained image classification model like VGGNet to contruct perceptual loss to obtain photo-realistic reconstruction. Plus, we may implement GAN(generative adversial network) and prior model to reconstruct the fine details.  
+Estimating a high-resolution(HR) face image from its low-resolution(LR) counterpart using deep convolutional neural network. And using pretrained image classification model like VGGNet to contruct perceptual loss to obtain photo-realistic reconstruction. Plus, we may implement GAN(generative adversial network) and use LR images as prior info to reconstruct the fine details.  
 
 ## Team members
 Tong Shen (shen338), Jieqiong Zhao (JieqiongZhao)
