@@ -23,4 +23,7 @@ Tong Shen (shen338), Jieqiong Zhao (JieqiongZhao)
 ![](https://raw.githubusercontent.com/shen338/Obfuscated-Face-Reconstruction/master/result/failure_case.PNG)
 
 ### contents
-In 
+The original data path should be './origin/img_align_celeba_png/'. The image name is from 000001.png to 200000.png.
+Run FaceCrop.py and TFtrain.py to generate TFRecord file. 
+
+And train any model just run *_train.py file. All the records and checkpoints will be stored on tensorboard. 
